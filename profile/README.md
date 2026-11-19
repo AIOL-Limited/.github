@@ -60,11 +60,6 @@ eKusanya helps businesses and organizations **manage loan collections, customer 
 
 
 
-#### 🎉 eSherehe — Event Management Platform
-
-eSherehe is a digital platform focused on **organizing and managing events and related workflows**. It aims to reduce manual administrative work, improve coordination, and give organizers a more structured way to handle event activities.
-
-
 
 #### ⛪ MunguMe — Church & Ministry Management
 
