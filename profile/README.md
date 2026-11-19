@@ -44,6 +44,36 @@ From a shop’s first inventory system to an organization’s next digital platf
   </tr>
 </table>
 
+### Our products & active projects
+
+At AckySoft, we are continuously developing, testing, and improving digital platforms that solve real operational challenges for businesses and organizations.
+
+#### 📱 eWakala — Mobile Money Agency Management
+
+eWakala is a digital management system built for **Mobile Money Agents and Super Agents**. It helps agency businesses track cash and float balances, organize mobile money accounts, and monitor day-to-day operations with clearer financial visibility. Our goal is to make agency management more organized, efficient, and easier to scale.
+
+
+
+#### 💼 eKusanya — Collections & Loan Management
+
+eKusanya helps businesses and organizations **manage loan collections, customer records, payments, and financial reports** in one digital workspace. It is designed to simplify collection processes, improve record-keeping, and help teams follow up on outstanding payments with better visibility into business performance.
+
+
+
+#### 🎉 eSherehe — Event Management Platform
+
+eSherehe is a digital platform focused on **organizing and managing events and related workflows**. It aims to reduce manual administrative work, improve coordination, and give organizers a more structured way to handle event activities.
+
+
+
+#### ⛪ MunguMe — Church & Ministry Management
+
+MunguMe is a digital solution designed to support **churches, ministries, and faith-based organizations** in managing their activities and administrative processes. The platform focuses on making day-to-day coordination and record management more accessible and efficient.
+
+
+
+> **Project note:** Some products are undergoing active testing and improvements. Repository access and source-code availability depend on each project's visibility and permissions.
+
 ### In the spotlight · AckySHINE
 
 An AI-powered digital companion focused on personal growth, inspiration, and guidance.
@@ -58,7 +88,7 @@ We start with your needs, develop a practical plan, and carry the work through d
 
 ### Explore the code
 
-Browse this organization’s public repositories to see what is available. For setup, contribution guidance, and licensing, check the documentation in each repository.
+Project repository links can be added above as they become available. Some active repositories are private and can only be accessed by authorized collaborators. For setup, contribution guidance, and licensing, see the documentation in each accessible repository.
 
 ---
 
